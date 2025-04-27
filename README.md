@@ -48,3 +48,5 @@ El conjunto de datos utilizado es el [PlantVillage Tomato Leaf Dataset](https://
 
 ---
 
+
+Enlace documento - https://docs.google.com/document/d/19Bx_iZTc4BACmrJ1LqGadQ_mkKRFByafJpbsg4TD2rM/edit?usp=sharing
